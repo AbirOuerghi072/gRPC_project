@@ -58,4 +58,4 @@ We set up the appropriate network credentials and establish a server instance to
 #### For the BLE server:
 We configure the ESP32 to advertise its services and characteristics, enabling other BLE devices to discover and interact with it. 
 
-<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/1a64a83e-49fe-4f55-8800-8482770cfe6c" width="600" height="500">
+<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/000c97bf-15e5-443b-9dfd-f00cba159b5a" width="600" height="500">
