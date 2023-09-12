@@ -46,3 +46,14 @@ The MQTT server will remain connected and listen to receive any incoming data fr
 clients, and then publish it to the broker.
 
 ![Screenshot from 2023-09-12 16-05-12](https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/a8214096-dcee-4ba5-89e2-bc27e4b3c878)
+
+### Creating code for a Wi-Fi server and BLE (Bluetooth Low Energy) server
+
+To begin, we initiate by configuring the ESP32 as both a Wi-Fi server and a BLE server within the Arduino IDE. 
+#### For the Wi-Fi server:
+We set up the appropriate network credentials and establish a server instance to handle incoming client requests, allowing seamless communication between devices over Wi-Fi. 
+
+
+ 
+#### For the BLE server:
+We configure the ESP32 to advertise its services and characteristics, enabling other BLE devices to discover and interact with it. 
