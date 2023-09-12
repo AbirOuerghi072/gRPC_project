@@ -53,7 +53,7 @@ To begin, we initiate by configuring the ESP32 as both a Wi-Fi server and a BLE 
 #### For the Wi-Fi server:
 We set up the appropriate network credentials and establish a server instance to handle incoming client requests, allowing seamless communication between devices over Wi-Fi. 
 
-<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/b76a891a-c7ab-4b02-aeb0-c3c51754b1ea" width="600" height="500">
+<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/bd99c0c4-8ea4-4deb-8a9d-443acaabaead" width="600" height="500">
  
 #### For the BLE server:
 We configure the ESP32 to advertise its services and characteristics, enabling other BLE devices to discover and interact with it. 
