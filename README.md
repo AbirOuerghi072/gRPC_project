@@ -44,3 +44,5 @@ It should be noted that the Mosquitto Broker is the main MQTT server, based on t
 publish/subscribe. 
 The MQTT server will remain connected and listen to receive any incoming data from the
 clients, and then publish it to the broker.
+
+![Screenshot from 2023-09-12 16-05-12](https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/a8214096-dcee-4ba5-89e2-bc27e4b3c878)
