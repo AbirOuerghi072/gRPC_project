@@ -51,11 +51,14 @@ clients, and then publish it to the broker.
 
 To begin, we initiate by configuring the ESP32 as both a Wi-Fi server and a BLE server within the Arduino IDE. 
 #### For the Wi-Fi server:
-We set up the appropriate network credentials and establish a server instance to handle incoming client requests, allowing seamless communication between devices over Wi-Fi. 
+We set up the appropriate network credentials and establish a server instance to handle incoming client requests, allowing seamless communication between devices over Wi-Fi.
 
-<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/000c97bf-15e5-443b-9dfd-f00cba159b5a" width="600" height="500">
+<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/f317cd5e-ed00-4b3f-a494-7faf86db8e3d" width="600" height="500">
+
  
 #### For the BLE server:
 We configure the ESP32 to advertise its services and characteristics, enabling other BLE devices to discover and interact with it. 
 
-<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/f317cd5e-ed00-4b3f-a494-7faf86db8e3d" width="600" height="500">
+<img src="https://github.com/AbirOuerghi072/gRPC_project/assets/144790093/000c97bf-15e5-443b-9dfd-f00cba159b5a" width="600" height="500">
+
+
